@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(255,255,255);
+    text-align: center; 
+}
+#filler{
+    background-color: white;
+}
+#div1{
+    text-align: center;
+    background-color: rgb(144,238,144);
+}
+
+#heading{
+    background-color:  rgb(144,238,144);
+   padding: 20px;
+   color: rgb(0,129,4)
+}
+table{
+    width: 100%;   
+   border-collapse: collapse;
+}
+th,td{
+    border: 1px solid rgb(255,255,255);
+}
+#tr1{
+    color: rgb(54,143,18);
+    font-weight: bold;
+    font-size:13px;
+}
+.colored{
+     background-color: rgb(197,252,197); 
+    border: 1px none rgb(197,252,197);
+    border-collapse: collapse;
+    
+}
+.mail{
+    font-weight: bold;
+    color: rgb(82,158,74);
+
+}
+#colored-mail{
+    font-weight: bold;
+    color: rgb(82,158,74);
+
+}
+button{ 
+    width: 90px ;
+    height: 50px;
+    background-color: rgb(146,237,143);
+    color: rgb(42, 117, 43);    
+    border: 1.5px solid rgb(34, 82, 34);
+}
